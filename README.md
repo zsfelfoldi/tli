@@ -23,4 +23,5 @@ https://github.com/ethereum/pm/issues/1927
 ### Talks
 
 EthBoulder Feb 14, 2026 [slides](https://github.com/zsfelfoldi/tli/blob/main/EthBoulder2026-slides.pdf)
+
 EthDenver Feb 19, 2026 [slides](https://github.com/zsfelfoldi/tli/blob/main/EthDenver2026-slides.pdf)
